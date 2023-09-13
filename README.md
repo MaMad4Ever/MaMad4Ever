@@ -1,16 +1,20 @@
-<h1 align="center">Hi 👋, I'm 𝑴𝒂𝑴𝒂𝒅𝟒𝑬𝒗𝒆𝒓</h1>
-<h3 align="center">A Passionate Discord Developer From Iran</h3>
+<h1 align="center">
+   <a herf="https://github.com/MaMad4Ever"> Hi 👋, I'm 𝑴𝒂𝑴𝒂𝒅𝟒𝑬𝒗𝒆𝒓
+ </h1>
+    
+# 💫 About Me:
+A Passionate Discord Developer From Iran<br><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mamad4ever&label=Profile%20views&color=0e75b6&style=flat" alt="mamad4ever" /> </p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/qKxC53nzJa)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/qKxC53nzJa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="qKxC53nzJa" height="30" width="40" /></a>
-</p>
+# 💻 Languages and Tools:
+![C#](https://img.shields.io/badge/c%23-6a329f?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-0b5394?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-171bac?style=for-the-badge&logo=css3&logoColor=white) ![mongodb](https://img.shields.io/badge/mongodb-3FA037?style=for-the-badge&logo=mongodb&logoColor=white) ![linux](https://img.shields.io/badge/linux-3F3E42?style=for-the-badge&logo=linux&logoColor=white) ![unity](https://img.shields.io/badge/unity-%23000000?style=for-the-badge&logo=unity&logoColor=white) 
+# 📊 Stats:
+![](https://github-readme-stats.vercel.app/api?username=MaMad4Ever&theme=radical&hide_border=false&include_all_commits=false&count_private=false) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaMad4Ever&layout=compact&theme=radical&hide)](https://github.com/Spicy1Code) <br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mamad4ever&show_icons=true&locale=en&layout=compact" alt="mamad4ever" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=MaMad4Ever&icon=0&color=0)](https://visitcount.itsvg.in) 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mamad4ever&show_icons=true&locale=en" alt="mamad4ever" /></p>
+<!-- Ends -->
