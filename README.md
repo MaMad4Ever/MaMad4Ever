@@ -6,7 +6,7 @@
 A Passionate Discord Developer From Iran<br><br>
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/qKxC53nzJa)
+![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white) ![Medium](https://img.shields.io/badge/Medium-000000.svg?logo=Medium&logoColor=white) ![Github](https://img.shields.io/badge/Github-000000.svg?logo=github&logoColor=white)
 
 # 💻 Languages and Tools:
 ![C#](https://img.shields.io/badge/c%23-6a329f?style=for-the-badge&logo=c-sharp&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-00007C?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-0b5394?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-171bac?style=for-the-badge&logo=css3&logoColor=white) ![mongodb](https://img.shields.io/badge/mongodb-3FA037?style=for-the-badge&logo=mongodb&logoColor=white) ![linux](https://img.shields.io/badge/linux-3F3E42?style=for-the-badge&logo=linux&logoColor=white) ![unity](https://img.shields.io/badge/unity-%23000000?style=for-the-badge&logo=unity&logoColor=white)
