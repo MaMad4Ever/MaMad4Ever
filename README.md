@@ -13,7 +13,8 @@ A Web Application Developer & Web Application Security Reserarcher<br><br>
 # 📕 Things I Will Learn In The Future:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-8FC708?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react.js-080808.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Kotlin](https://img.shields.io/badge/kotlin-B02FED?style=for-the-badge&logo=kotlin&logoColor=white) ![Gitlab](https://img.shields.io/badge/gitlab-FFFF00?style=for-the-badge&logo=gitlab) ![NPM](https://img.shields.io/badge/NPM-red?style=for-the-badge&logo=NPM)
 # 📊 Stats:
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mamad4ever&layout=compact&langs_count=8&theme=algolia"/><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mamad4ever&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <br/>
+![](https://github-readme-stats.vercel.app/api?username=MaMad4ever&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaMad4ever&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
 
 
 ---
