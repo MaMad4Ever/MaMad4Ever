@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejRvc3JhZXFybHc4Ym0xOHFsZDJpcWxibXUwaGdrbTgyN3VvNmFhbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12775LeUHMZjNu/giphy.gif" width="1000" height="235"></img>
+
 <h1 align="center">
    <a herf="https://github.com/MaMad4Ever"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm 𝑴𝒂𝑴𝒂𝒅𝟒𝑬𝒗𝒆𝒓
  </h1>
