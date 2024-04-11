@@ -16,7 +16,7 @@ A Web Application Developer & Bug Hunter and I work in the security field<br><br
 # <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Bullseye" width="60" /> Things I Will Learn In The Future:
 ![Learn Skills](https://skillicons.dev/icons?i=rust,regex,fastapi,kotlin,php,laravel,jquery,nodejs,react,electron,vuejs,vite,expressjs,npm,nextjs,tailwind,git,postman,mysql,docker,nginx&theme=dark)
 
-# 📊 Stats:
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MaMad4ever&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaMad4ever&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
 
