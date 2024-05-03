@@ -7,7 +7,7 @@
 # 👨‍💻 About Me:
 A Web Application Developer & Bug Hunter and I work in the security field<br><br>
 
-## 🌐 Socials:
+# 🌐 Socials:
 ![My Socials](https://skillicons.dev/icons?i=discord,github,gitlab,linkedin,instagram,gmail,&theme=dark)
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="50px"> Languages and Tools:
