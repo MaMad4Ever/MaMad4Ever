@@ -13,7 +13,7 @@ A Web Application Developer & Bug Hunter and I work in the security field<br><br
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="50px"> Languages and Tools:
 
 ![My Skills](https://skillicons.dev/icons?i=cs,go,js,python,flask,opencv,django,selenium,sqlite,html,css,wordpress,mongodb,linux,debian,kali,ubuntu,bash,powershell,notion,unity,windows&theme=dark)
-# <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Bullseye" width="60" /> Things I Will Learn In The Future:
+# <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Bullseye" width="60" />Things I Will Learn In The Future:
 ![Learn Skills](https://skillicons.dev/icons?i=rust,ts,regex,fastapi,kotlin,php,laravel,jquery,nodejs,react,redux,electron,vuejs,vite,expressjs,npm,nextjs,graphql,tailwind,git,arch,postman,mysql,docker,obsidian,nginx&theme=dark)
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> Stats:
