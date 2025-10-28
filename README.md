@@ -14,7 +14,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=cs,javascript,python,regex,flask,django,fastapi,selenium,sqlite,html,css,git,mysql,wordpress,mongodb,postman,linux,bash,obsidian&theme=dark)
 # <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Bullseye" width="60" />Things I Will Learn In The Future:
-![Learn Skills](https://skillicons.dev/icons?i=golang,rust,php,laravel,redux,redis,electron,vuejs,nextjs,expressjs,graphql,tailwind,bootstrap,arch,docker,nginx&theme=dark)
+![Learn Skills](https://skillicons.dev/icons?i=golang,rust,php,redux,redis,vuejs,expressjs,graphql,tailwind,bootstrap,arch,docker,nginx&theme=dark)
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MaMad4ever&theme=dark&include_all_commits=true&count_private=true&show_icons=true&icon_color=434d58)<br/>
