@@ -1,12 +1,11 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHAyYXpua2t1c3hhZzFjZXhrbjB3ank5cGl5dnh1eWJwYjVqZzd5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MVuTi2LcjWTew/giphy.gif" width="1000" height="300"></img>
 
 <h1 align="center">
-   <a herf="https://github.com/MaMad4Ever"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm 𝑴𝒂𝑴𝒂𝒅𝟒𝑬𝒗𝒆𝒓
- </h1>
+   <a href="https://github.com/MaMad4Ever"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm 𝑴𝒂𝑴𝒂𝒅𝟒𝑬𝒗𝒆𝒓
+</h1>
     
 # 👨‍💻 About Me:
 ![About Me](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=200&color=E1E1E1&width=435&lines=A+Web+Application+Developer;Bug+Hunter+and+I+work+in+the+security+field)<br><br>
-
 # 🌐 Socials:
 ![My Socials](https://skillicons.dev/icons?i=discord,github,gitlab,linkedin,instagram,gmail,&theme=dark)
 
@@ -17,7 +16,7 @@
 ![Learn Skills](https://skillicons.dev/icons?i=golang,rust,php,redux,redis,vuejs,expressjs,graphql,tailwind,arch,docker,nginx&theme=dark)
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> Stats:
-![](https://github-readme-stats.vercel.app/api?username=MaMad4ever&theme=dark&include_all_commits=true&count_private=true&show_icons=true&icon_color=434d58)<br/>
+![Rating](https://github-readme-stats.vercel.app/api?username=MaMad4ever&theme=dark&include_all_commits=true&count_private=true&show_icons=true&icon_color=434d58) <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaMad4ever&theme=dark&include_all_commits=true&count_private=true&layout=compact) <br/>
 
 
