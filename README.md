@@ -10,7 +10,7 @@
 # 🌐 Socials:
 ![My Socials](https://skillicons.dev/icons?i=discord,github,gitlab,linkedin,instagram,gmail,&theme=dark)
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="50px"> Languages and Tools:
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="50px"> Tech Stack:
 
 ![My Skills](https://skillicons.dev/icons?i=cs,javascript,python,regex,flask,django,fastapi,selenium,sqlite,html,css,bootstrap,git,mysql,wordpress,mongodb,postman,linux,bash,obsidian&theme=dark)
 # <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Bullseye" width="60" />Things I Will Learn In The Future:
