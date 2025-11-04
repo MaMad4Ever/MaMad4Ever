@@ -17,7 +17,7 @@
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> Stats:
 ![Rating](https://github-readme-stats.vercel.app/api?username=MaMad4ever&theme=dark&include_all_commits=true&count_private=true&show_icons=true&icon_color=434d58) <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaMad4ever&theme=dark&include_all_commits=true&count_private=true&layout=compact) <br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaMad4ever&theme=dark&include_all_commits=true&count_private=true&layout=compact&v1) <br/>
 
 
 
