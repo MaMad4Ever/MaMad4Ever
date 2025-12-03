@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHAyYXpua2t1c3hhZzFjZXhrbjB3ank5cGl5dnh1eWJwYjVqZzd5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MVuTi2LcjWTew/giphy.gif" width="1000" height="300"></img>
 
 <h1 align="center">
-   <a href="https://github.com/MaMad4Ever"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm 𝑴𝒂𝑴𝒂𝒅𝟒𝑬𝒗𝒆𝒓
+    Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm 𝑴𝒂𝑴𝒂𝒅𝟒𝑬𝒗𝒆𝒓
 </h1>
     
 # 👨‍💻 About Me:
